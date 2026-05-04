@@ -34,6 +34,7 @@ Succesfully completeing [HOL 1](hol1.md) will result in you having your own pers
 
 Add your name and website here!
 
+- [Marta Meroño](https://mmerono.github.io)
 - [Linnaeus Bundalian](https://lbundalian.github.io/blog/)
 - [Samuel Leal](https://samuleal.github.io/)
 - [Sofia Cantalupo](https://sofiacantalupourv.github.io/)
